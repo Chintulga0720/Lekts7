@@ -23,4 +23,9 @@ Git, GitHub, repository, clone, commit, push, pull, remote repository, local rep
 
 ## 5 Branch дээр хийсэн өөрчлөлт
 
-энэ хэсгийг feature-readme breanch дээр нэмсэн
+энэ хэсгийг feature-readme breach дээр нэмсэн
+
+## Нэмэлт
+Нэр: Чинтулга
+Нас: 20
+Мэргэжил: оюутан
